@@ -1,0 +1,6 @@
+Orange,44,S.N. Comptoir Rhodanien,1500
+Apple,42,FredInc,1000
+Banana,19,FredInc,2000
+Orange,40,S.N. Comptoir Rhodanien,1500
+Apple,40,AfroFruit,1000
+Banana,20,S.N. Comptoir Rhodanien,2000

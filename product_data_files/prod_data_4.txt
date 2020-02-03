@@ -1,0 +1,6 @@
+Orange,44,FredInc,1500
+Apple,42,FredInc,1000
+Banana,19,FredInc,2000
+Orange,40,Anomrazirny,1500
+Apple,40,Anomrazirny,1000
+Banana,20,Anomrazirny,2000

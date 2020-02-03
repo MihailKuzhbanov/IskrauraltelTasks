@@ -1,0 +1,8 @@
+Orange,44,ApoFruit,1500
+Apple,42,MasterFruit,1000
+Banana,19,ApoFruit,2000
+Orange,40,AfroFruit,1500
+Apple,40,MasterFruit,1000
+Peach,20,Teraneo,500
+Apple,49,Castang,1000
+Pineapple,78,Asycomo,300
