@@ -4,13 +4,13 @@
 #include <fstream>
 
 using namespace std;
-//составитель имен
+//СЃРѕСЃС‚Р°РІРёС‚РµР»СЊ РёРјРµРЅ
 string FileNameBuilder(string dir, string pre, string post, int number)
 {
 	return string(dir + pre + to_string(number) + post);
 }
 
-//считывание файла
+//СЃС‡РёС‚С‹РІР°РЅРёРµ С„Р°Р№Р»Р°
 vector<string> GetDataFromFile(string fileName)
 {
 	vector<string> result;
@@ -24,7 +24,7 @@ vector<string> GetDataFromFile(string fileName)
 	return result;
 }
 
-//запись файла
+//Р·Р°РїРёСЃСЊ С„Р°Р№Р»Р°
 void SaveDataToFile(vector<string> data, string fileName)
 {
 	ofstream out(fileName);
@@ -36,8 +36,8 @@ void SaveDataToFile(vector<string> data, string fileName)
 	out.close();
 }
 
-//слияние векторов из листа
-//шаблон позволит использовать функцию для любых данных, организованных list<vector<T>>
+//СЃР»РёСЏРЅРёРµ РІРµРєС‚РѕСЂРѕРІ РёР· Р»РёСЃС‚Р°
+//С€Р°Р±Р»РѕРЅ РїРѕР·РІРѕР»РёС‚ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ С„СѓРЅРєС†РёСЋ РґР»СЏ Р»СЋР±С‹С… РґР°РЅРЅС‹С…, РѕСЂРіР°РЅРёР·РѕРІР°РЅРЅС‹С… list<vector<T>>
 template<typename T>
 vector<T> MergeVectors(list<vector<T>> vectorsList, int overallObjects)
 {
@@ -49,4 +49,3 @@ vector<T> MergeVectors(list<vector<T>> vectorsList, int overallObjects)
 	}
 	return result;
 }
-
