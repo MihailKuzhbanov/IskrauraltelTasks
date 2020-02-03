@@ -1,7 +1,0 @@
-Orange,40,AfroFruit,1500
-Orange,40,AfroFruit,1500
-Apple,40,AfroFruit,1000
-Banana,20,AfroFruit,2000
-Apple,40,AfroFruit,1000
-Orange,40,AfroFruit,1500
-Apple,40,AfroFruit,1000

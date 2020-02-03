@@ -1,6 +1,0 @@
-Apple,42,FredInc,1000
-Banana,19,FredInc,2000
-Orange,44,FredInc,1500
-Orange,44,FredInc,1500
-Apple,42,FredInc,1000
-Banana,19,FredInc,2000

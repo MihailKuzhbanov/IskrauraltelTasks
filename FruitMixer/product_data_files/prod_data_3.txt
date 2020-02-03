@@ -1,6 +1,0 @@
-Orange,44,FredInc,1500
-Apple,42,Global Fresh,1000
-Banana,19,Global Fresh,2000
-Orange,40,AfroFruit,1500
-Apple,40,AfroFruit,1000
-Banana,20,Global Fresh,2000

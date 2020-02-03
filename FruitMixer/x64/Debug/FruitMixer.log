@@ -1,3 +1,0 @@
-﻿  FruitMixer.cpp
-d:\iskrauralteltasks\fruitmixer\fruitmixer.cpp(57): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
-  FruitMixer.vcxproj -> D:\IskrauraltelTasks\FruitMixer\x64\Debug\FruitMixer.exe
